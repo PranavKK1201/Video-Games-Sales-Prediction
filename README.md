@@ -26,34 +26,7 @@ This repository contains code for building and deploying a machine learning mode
 2. **Deployment**:
    - Run the `app.py` script. This will start a Flask web application locally, allowing users to interact with the trained model.
 
-### How to Deploy:
 
-1. Clone this repository to your local machine.
-   ```
-   git clone <repository_url>
-   ```
-
-2. Navigate to the cloned directory.
-   ```
-   cd <repository_name>
-   ```
-
-3. Install the required dependencies using pip.
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Train the model by running `model.py`.
-   ```
-   python model.py
-   ```
-
-5. Deploy the Flask application by running `app.py`.
-   ```
-   python app.py
-   ```
-
-6. Access the application by visiting `http://127.0.0.1:5000/` in your web browser.
 
 ### Notes:
 
